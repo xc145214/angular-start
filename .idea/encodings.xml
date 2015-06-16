@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/gemStoreApp/index.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gemStoreApp/store-products.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shared/css/bootstrap-theme.css" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shared/css/bootstrap-theme.css.map" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shared/css/bootstrap-theme.min.css" charset="UTF-8" />
