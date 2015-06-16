@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/actions/file-upload/angular-upload.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/actions/file-upload/file_upload.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gemStoreApp/index.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gemStoreApp/store-products.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/shared/css/bootstrap-theme.css" charset="UTF-8" />
