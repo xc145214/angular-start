@@ -46,6 +46,7 @@
                 </div>
             </div>
         </div>
+        <div id="hello">hello</div>
     </div>
 
 
@@ -69,6 +70,7 @@
             }
         ];
 
+        console.log(angular.element(document.getElementById("#hello")));
         $scope.currentContent = $scope.content[0];
         $scope.setPage = function (page) {
             $scope.currentContent = page;
